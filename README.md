@@ -54,7 +54,7 @@
   </ol>
 </details>
 
-
+## Check out the live demo [here](https://primeonpeasea.github.io/WeatherForecastingApp/)
 
 ## About The Project
 
