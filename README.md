@@ -187,6 +187,6 @@ Acknowledgements are an important part of any project, and I would like to take 
 [license-shield]: https://img.shields.io/github/license/ParthSingh/WeatherForecastingApp.svg?style=for-the-badge
 [license-url]: https://github.com/ParthSingh/WeatherForecastingApp/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0a66c2
-[linkedin-url]: https://linkedin.com/in/parthsingh1023/
+[linkedin-url]: https://www.linkedin.com/in/parthsingh-sde/
 [product-screenshot]: images/desktopLayout.png
 [product-screenshot-second]: images/smartphoneLayout.png
